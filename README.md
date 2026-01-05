@@ -1,7 +1,5 @@
 # Sentrix-Restaurant
 
-**Keuzes**
-
 **Shared BaseClass**
 De baseclass.lua in **src/shared/** wordt gebruikt om:
 - Code-duplicatie te voorkomen.
